@@ -1,4 +1,4 @@
-# MarineBioacoustics
+# Whale Bioacoustics in MATLAB
 Marine bioacoustics library in Matlab
 
 ![Logo of whare](./whale_bioacoustics_logo.png)
