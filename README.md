@@ -1,5 +1,5 @@
-# MarineBioacoustics101
-Marine bioacoustics library for begginers in Matlab
+# MarineBioacoustics
+Marine bioacoustics library in Matlab
 
 ![Logo of whare](./whale_image.png)
 
